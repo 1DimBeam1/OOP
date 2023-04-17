@@ -3,4 +3,4 @@ project(OOP_task1_)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(OOP_task1_ main.cpp ClassModule.cpp ClassModule.h)
+add_executable(OOP_task1_ main.cpp Graph.cpp Graph.h)
